@@ -1,0 +1,22 @@
+.navbar-text {
+    color: white !important;
+}
+
+.navbar-title {
+    color: white !important;
+}
+
+.justify-content-end {
+    display: inline-block;
+}
+
+.fa-lg {
+    position: absolute;
+    right: 140px;
+    color: white;
+}
+
+.cart-box {
+    display: flex;
+    justify-content: space-between;
+}

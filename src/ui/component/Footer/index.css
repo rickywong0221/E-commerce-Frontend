@@ -1,0 +1,13 @@
+.footer img {
+    width: 1680px;
+    height: auto;
+    padding: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+}
+
+.footer h6{
+    color: rgba(0,0,0,0.2);
+    text-align: center;
+    margin-top: 500px;
+}
